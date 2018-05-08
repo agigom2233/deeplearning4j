@@ -1,7 +1,6 @@
-package org.deeplearning4j.graph.models.deepwalk;
+package org.deeplearning4j.models.sequencevectors.graph.huffman;
 
 import org.junit.Test;
-
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
